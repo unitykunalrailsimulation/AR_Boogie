@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/MultiSet-SDK/1.15.1/Sample Scenes/ObjectTracking/ObjectTracking.unity
+    guid: e57009bf01e9e4385a5ef5e3c0e6f5d9
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 4b46815eb85a05c4cafe463588ce690e, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 01683535678221a4184734c48c68271c, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 3340d7602c5760044876cc2c58204706, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c911fadd54c9b064ab3f9a172152f66c, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 9b82a18443c79dc43b6fb65a39c572b1, type: 2}
+  m_UseUCBPForAssetBundles: 0
